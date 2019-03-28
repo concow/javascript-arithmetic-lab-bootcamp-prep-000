@@ -1,5 +1,5 @@
 function add(a, b) {
-  return
+  return a + b
 }
 
 function subtract(a, b) {
@@ -15,13 +15,11 @@ function divide(a, b) {
 }
 
 function inc(n) {
-  n++
-  return n
+  return += 1
 }
 
 function dec(n) {
-  n--
-  return n
+  return -= 1
 }
 
 function makeInt(n) {
